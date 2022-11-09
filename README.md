@@ -1,11 +1,12 @@
-
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F02%2F21%2F97%2F86%2F1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fhorizontal-banner-with-hands-typing-on-laptop-keyboard-various-electronic-devices-and-symbols-programming-software-development-coding-monochrome-vector-illustration-in-modern-line-art-style%2F221978639&tbnid=ptUQWa1sEUsLqM&vet=12ahUKEwjm3-_r5qH7AhVhVKQEHSTRDXQQMygEegUIARDbAQ..i&docid=Rs4XqUrHmU2D7M&w=1000&h=448&q=coding%20banner%20img&client=opera&ved=2ahUKEwjm3-_r5qH7AhVhVKQEHSTRDXQQMygEegUIARDbAQ)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm khaled elkhalili</h1>
+<!-- [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfJZOIHgZ36D-h-hytMQflOgtZa30BhNIdfQ&usqp=CAU)](https://rishavchanda.io) -->
+<!-- <img align="center" alt="Coding" width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVMZfscFyZ0KN-6glzYS-0dGiQFMqaVPu7IA&usqp=CAU"/> -->
+<h1 align="center"> Hi 👋, I'm khaled elkhalili </h1>
 <h3 align="center">frontend developer from palestine</h3>
-(img align="right" alt="Coding" width="400"https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif")
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaleda-02&label=Profile%20views&color=0e75b6&style=flat" alt="khaleda-02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaleda-02" alt="khaleda-02" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/khaleda_02" target="blank"><img src="https://img.shields.io/twitter/follow/khaleda_02?logo=twitter&style=for-the-badge" alt="khaleda_02" /></a> </p>
 
