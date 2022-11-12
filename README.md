@@ -1,10 +1,11 @@
-<!-- [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfJZOIHgZ36D-h-hytMQflOgtZa30BhNIdfQ&usqp=CAU)](https://rishavchanda.io) -->
+[![MasterHead](https://pbs.twimg.com/profile_banners/1459508584606220288/1656260627/600x200)](https://rishavchanda.io)
 <!-- <img align="center" alt="Coding" width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVMZfscFyZ0KN-6glzYS-0dGiQFMqaVPu7IA&usqp=CAU"/> -->
 <h1 align="center"> Hi 👋, I'm khaled elkhalili </h1>
 <h3 align="center">frontend developer from palestine</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaleda-02&label=Profile%20views&color=0e75b6&style=flat" alt="khaleda-02" /> </p>
+
 
 
 
@@ -33,6 +34,7 @@
 <br/>
 <p style="margin:20 0 " > <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaleda-02&show_icons=true&locale=en&layout=compact" alt="khaleda-02" /></p>
 <br/>
-<p style="margin:20 0 ">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaleda-02&show_icons=true&locale=en" alt="khaleda-02" /></p>
+<!-- <p style="margin:20 0 ">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaleda-02&show_icons=true&locale=en" alt="khaleda-02" /></p> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaleda-02)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <p style="margin:20 0 "><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaleda-02&" alt="khaleda-02" /></p>
