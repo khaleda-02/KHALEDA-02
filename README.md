@@ -3,12 +3,13 @@
 <!-- <img align="center" alt="Coding" width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
 
 <h1 align="center"> Hi 👋, I'm khaled elkhalili </h1>
-![I am GitHub Readme Generator's creator]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
+
+(https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
+
 <h2 align="center">Frontend Developer </h2>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaleda-02&label=Profile%20views&color=0e75b6&style=flat" alt="khaleda-02" /> </p>
-
 
 
 
