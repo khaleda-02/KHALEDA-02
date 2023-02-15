@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at <br/> [https://khaledayman-myportfilio.netlify.app](https://khaledayman-myportfilio.netlify.app)
 
-- 💬 Ask me about **React.js , Node.js , and any thing about coding **
+- 💬 Ask me about : React.js , Node.js , and any thing about coding 
 
 - 📫 How to reach me **khaleda.02f@gmail.com**
 
