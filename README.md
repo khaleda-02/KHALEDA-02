@@ -2,10 +2,11 @@
 
 #### 
 ![I am GitHub Readme Generator's creator](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
-<h2 align="center">Frontend Developer </h2>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
+[![GitHub followers](https://img.shields.io/github/followers/timothystewart6?logo=GitHub&style=for-the-badge)](https://l.khaleda-02/github)
+[![GitHub Stars](https://img.shields.io/github/stars/techno-tim?logo=github&style=for-the-badge)](https://l.khaleda-02/github)
+[![Twitter Followers](https://img.shields.io/twitter/follow/technotimlive?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://l.khaleda_02/twitter)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaleda-02&label=Profile%20views&color=0e75b6&style=flat" alt="khaleda-02" /> </p>
 
 
