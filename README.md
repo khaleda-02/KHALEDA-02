@@ -2,6 +2,7 @@
 <img src="http://i.imgur.com/y8g506n.png" align="center" height="" width="600" />
 </div>  
 
+# 
 <div align="center" margin="10px" >
 <a href="https://twitter.com/https://twitter.com/khaleda_02" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -31,7 +32,7 @@
 
 # **<div align="center">I'm Khaled , a Full-stack developer 👨‍💻 </div>**  
 
-# 👋 Hi!Glad to see you here!  
+# 👋 Hi! Glad to see you here!  
 a third-year computer science student, I'm currently expanding my skills in backend development, focusing on JavaScript frameworks like Express and NestJS for server-side applications. I'm immersing myself in databases and exploring AWS cloud technologies and Docker for containerization.
 
 With over 3 years of frontend development experience, I specialize in React and enjoy solving coding challenges on platforms like LeetCode and CodeWars. Utilizing my knowledge of data structures and design patterns, I create efficient solutions.  
