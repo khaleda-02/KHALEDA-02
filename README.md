@@ -4,7 +4,7 @@
 
 # **<div align="center">  👋 Hi! Glad to see you here! </div>**  
 
-#I'm Khaled , a Full-stack developer 👨‍💻 
+# ** I'm Khaled , a Full-stack developer 👨‍💻 
 a third-year computer science student, I'm currently expanding my skills in backend development, focusing on JavaScript frameworks like Express and NestJS for server-side applications. I'm immersing myself in databases and exploring AWS cloud technologies and Docker for containerization.
 
 With over 3 years of frontend development experience, I specialize in React and enjoy solving coding challenges on platforms like LeetCode and CodeWars. Utilizing my knowledge of data structures and design patterns, I create efficient solutions.  
