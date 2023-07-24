@@ -2,8 +2,8 @@
 <img src="http://i.imgur.com/y8g506n.png" align="center" height="" width="600" />
 </div>  
 
-# 
-<div align="center" margin="10px" >
+
+<div align="center" style="margin-top: 10px;">
 <a href="https://twitter.com/https://twitter.com/khaleda_02" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
