@@ -2,6 +2,32 @@
 <img src="http://i.imgur.com/y8g506n.png" align="center" height="" width="600" />
 </div>  
 
+[![GitHub followers](https://img.shields.io/github/followers/khaled-02?logo=GitHub&style=for-the-badge)](https://l.technotim.live/github)
+[![GitHub Stars](https://img.shields.io/github/stars/khaleda-02?logo=github&style=for-the-badge)](https://l.technotim.live/github)
+[![Twitter Followers](https://img.shields.io/twitter/follow/khaleda_02?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://l.technotim.live/twitter)
+<div align="center">
+<a href="https://twitter.com/https://twitter.com/khaleda_02" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/khaled-elkhalili-656326244/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/https://www.facebook.com/khaleda.02f/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/khaleda.02/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/https://medium.com/@khaleda.02f" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://github.com/khaleda-02" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+
 # **<div align="center">  👋 Hi! Glad to see you here! </div>**  
 
 ### I'm Khaled , a Full-stack developer 👨‍💻 
