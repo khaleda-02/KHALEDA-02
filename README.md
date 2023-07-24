@@ -39,13 +39,12 @@ All of my projects are available at[ My Website ](https://khaleda-02.netlify.app
 </div>  
 
 # 🧑‍💻 My Fov Projects 
-<div align="center">
+
 [![insta-master React ](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=insta-master&theme=radical)](https://github.com/khaleda-02/insta-master)
 [![auth-app React](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=auth-app-front&theme=radical)](https://github.com/khaleda-02/auth-app-front)
 [![auth-app Express](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=auth-app-back&theme=radical)](https://github.com/khaleda-02/auth-app-back)
 [![netflix-clone React](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=netflix-clone&theme=radical)](https://github.com/khaleda-02/netflix-clone)
 [![Gaming Store](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=Gaming&theme=radical)](https://github.com/khaleda-02/Gaming)
-</div> 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -89,13 +88,13 @@ All of my projects are available at[ My Website ](https://khaleda-02.netlify.app
 <br/>  
 
 # 📊 My Stats 
-<div align="center">
+
 
 [![khaled's github stats](https://github-readme-stats.vercel.app/api?username=khaleda-02&show_icons=true&count_private=true&theme=radical&hide=stars)]
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khaleda-02&theme=dark&count_private=true&theme=radical)]
                         
-</div> 
+
   
 
 <br/>  
