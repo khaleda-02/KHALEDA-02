@@ -1,6 +1,22 @@
 <div align="center">
 <img src="http://i.imgur.com/y8g506n.png" align="center" height="" width="600" />
 </div>  
+
+  
+
+
+# **<div align="center">  👋 Hi! Glad to see you here! </div>**  
+
+### I'm Khaled , a Full-stack developer 👨‍💻 
+a third-year computer science student, I'm currently expanding my skills in backend development, focusing on JavaScript frameworks like Express and NestJS for server-side applications. I'm immersing myself in databases and exploring AWS cloud technologies and Docker for containerization.
+
+With over 3 years of frontend development experience, I specialize in React and enjoy solving coding challenges on platforms like LeetCode and CodeWars. Utilizing my knowledge of data structures and design patterns, I create efficient solutions.  
+<br/>  
+
+I’m currently working on some nestjs projects .  
+I’m currently learning Backend Development .   
+All of my projects are available at[ My Website ](https://khaleda-02.netlify.app)  
+<br/>  
 <div align="center">
 <a href="https://twitter.com/https://twitter.com/khaleda_02" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -21,21 +37,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-
-# **<div align="center">  👋 Hi! Glad to see you here! </div>**  
-
-### I'm Khaled , a Full-stack developer 👨‍💻 
-a third-year computer science student, I'm currently expanding my skills in backend development, focusing on JavaScript frameworks like Express and NestJS for server-side applications. I'm immersing myself in databases and exploring AWS cloud technologies and Docker for containerization.
-
-With over 3 years of frontend development experience, I specialize in React and enjoy solving coding challenges on platforms like LeetCode and CodeWars. Utilizing my knowledge of data structures and design patterns, I create efficient solutions.  
-<br/>  
-
-I’m currently working on some nestjs projects .  
-I’m currently learning Backend Development .   
-All of my projects are available at[ My Website ](https://khaleda-02.netlify.app)  
-<br/>  
 
 # 🧑‍💻 My Fov Projects 
 
