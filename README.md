@@ -91,10 +91,9 @@ All of my projects are available at[ My Website ](https://khaleda-02.netlify.app
 # 📊 My Stats 
 
 
-[![khaled's github stats](https://github-readme-stats.vercel.app/api?username=khaleda-02&show_icons=true&count_private=true&theme=radical&hide=stars)]
+![khaled's github stats](https://github-readme-stats.vercel.app/api?username=khaleda-02&show_icons=true&count_private=true&theme=radical&hide=stars)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khaleda-02&theme=dark&count_private=true&theme=radical)]
-                        
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khaleda-02&theme=dark&count_private=true&theme=radical)                        
 
   
 
