@@ -59,7 +59,7 @@ All of my projects are available at[ My Website ](https://khaleda-02.netlify.app
 
 # 📊 My Stats 
 <div align="center">
-  <[![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=khaleda-02&show_icons=true&count_private=true&theme=radical&hide=stars)](https://l.technotim.live/github)
+[![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=khaleda-02&show_icons=true&count_private=true&theme=radical&hide=stars)](https://l.technotim.live/github)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khaleda-02&theme=dark&count_private=true&theme=radical)](https://l.technotim.live/github)
                         
