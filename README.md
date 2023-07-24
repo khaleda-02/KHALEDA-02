@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm khaled elkhalili </h1>
 
 #### 
-![I am GitHub Readme Generator's creator](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
+![](http://i.imgur.com/y8g506n.png?1)
 
 [![GitHub followers](https://img.shields.io/github/followers/timothystewart6?logo=GitHub&style=for-the-badge)](https://l.khaleda-02/github)
 [![GitHub Stars](https://img.shields.io/github/stars/techno-tim?logo=github&style=for-the-badge)](https://l.khaleda-02/github)
