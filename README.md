@@ -1,11 +1,11 @@
 <div align="center">
 <img src="http://i.imgur.com/y8g506n.png" align="center" height="" width="600" />
 </div>  
-
-[![GitHub followers](https://img.shields.io/github/followers/khaled-02?logo=GitHub&style=for-the-badge)](https://l.technotim.live/github)
+<div align="center">
+[![GitHub followers](https://img.shields.io/github/followers/khaleda-02?logo=GitHub&style=for-the-badge)](https://l.technotim.live/github)
 [![GitHub Stars](https://img.shields.io/github/stars/khaleda-02?logo=github&style=for-the-badge)](https://l.technotim.live/github)
 [![Twitter Followers](https://img.shields.io/twitter/follow/khaleda_02?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://l.technotim.live/twitter)
-<div align="center">
+
 <a href="https://twitter.com/https://twitter.com/khaleda_02" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
