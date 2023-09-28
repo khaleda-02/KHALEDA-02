@@ -74,7 +74,6 @@ All of my projects are available at[ My Website ](https://khaleda-02.netlify.app
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a> 
-<a href="https://docs.microsoft.com/en-us/laravel/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel.png" alt="laravel" height="50" /></a> 
 </div>
 
 </td></tr></table>  
@@ -85,10 +84,10 @@ All of my projects are available at[ My Website ](https://khaleda-02.netlify.app
 [![nest support system ](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=nest-support-system&theme=radical)](https://github.com/khaleda-02/nest-support-system)
 [![nest-social-media-app ](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=nest-social-media-app&theme=radical)](https://github.com/khaleda-02/nest-social-media-app)
 [![laravel-store ](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=laravel-store&theme=radical)](https://github.com/khaleda-02/laravel-store)
+[![netflix-clone React](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=netflix-clone&theme=radical)](https://github.com/khaleda-02/netflix-clone)
 [![auth-app React](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=auth-app-front&theme=radical)](https://github.com/khaleda-02/auth-app-front)
 [![auth-app Express](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=auth-app-back&theme=radical)](https://github.com/khaleda-02/auth-app-back)
 [![Gaming Store](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=Gaming&theme=radical)](https://github.com/khaleda-02/Gaming)
-[![netflix-clone React](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=netflix-clone&theme=radical)](https://github.com/khaleda-02/netflix-clone)
 
                   
 
