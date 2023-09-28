@@ -73,7 +73,8 @@ All of my projects are available at[ My Website ](https://khaleda-02.netlify.app
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a> 
+<a href="https://docs.microsoft.com/en-us/laravel/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel.png" alt="laravel" height="50" /></a> 
 </div>
 
 </td></tr></table>  
@@ -81,19 +82,15 @@ All of my projects are available at[ My Website ](https://khaleda-02.netlify.app
 
 
 # 🧑‍💻 My Fov Projects  
-[![insta-master React ](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=nest-todo-app&theme=radical)](https://github.com/khaleda-02/nest-todo-app)
-[![insta-master React ](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=insta-master&theme=radical)](https://github.com/khaleda-02/insta-master)
+[![nest support system ](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=nest-support-system&theme=radical)](https://github.com/khaleda-02/nest-support-system)
+[![nest-social-media-app ](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=nest-social-media-app&theme=radical)](https://github.com/khaleda-02/nest-social-media-app)
+[![laravel-store ](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=laravel-store&theme=radical)](https://github.com/khaleda-02/laravel-store)
 [![auth-app React](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=auth-app-front&theme=radical)](https://github.com/khaleda-02/auth-app-front)
 [![auth-app Express](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=auth-app-back&theme=radical)](https://github.com/khaleda-02/auth-app-back)
 [![Gaming Store](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=Gaming&theme=radical)](https://github.com/khaleda-02/Gaming)
 [![netflix-clone React](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=netflix-clone&theme=radical)](https://github.com/khaleda-02/netflix-clone)
 
-# 📊 My Stats 
-
-
-![khaled's github stats](https://github-readme-stats.vercel.app/api?username=khaleda-02&show_icons=true&count_private=true&theme=radical&hide=stars)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khaleda-02&theme=dark&count_private=true&theme=radical)                        
+                  
 
   
 
