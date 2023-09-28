@@ -84,10 +84,11 @@ All of my projects are available at[ My Website ](https://khaleda-02.netlify.app
 [![nest support system ](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=nest-support-system&theme=radical)](https://github.com/khaleda-02/nest-support-system)
 [![nest-social-media-app ](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=nest-social-media-app&theme=radical)](https://github.com/khaleda-02/nest-social-media-app)
 [![laravel-store ](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=laravel-store&theme=radical)](https://github.com/khaleda-02/laravel-store)
+[![Gaming Store](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=Gaming&theme=radical)](https://github.com/khaleda-02/Gaming)
 [![netflix-clone React](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=netflix-clone&theme=radical)](https://github.com/khaleda-02/netflix-clone)
 [![auth-app React](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=auth-app-front&theme=radical)](https://github.com/khaleda-02/auth-app-front)
 [![auth-app Express](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=auth-app-back&theme=radical)](https://github.com/khaleda-02/auth-app-back)
-[![Gaming Store](https://github-readme-stats.vercel.app/api/pin/?username=khaleda-02&repo=Gaming&theme=radical)](https://github.com/khaleda-02/Gaming)
+
 
                   
 
