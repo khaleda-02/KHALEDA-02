@@ -5,7 +5,7 @@
   
 
 
-# **<div align="center">  👋 Hi! Glad to see you here! </div>**  
+# **<div align="center">  👋 Hi! Glad to see you here!</div>**  
 
 ### I'm Khaled , a Full-stack developer 👨‍💻 
 a third-year computer science student, I'm currently expanding my skills in backend development, focusing on JavaScript frameworks like Express and NestJS for server-side applications. I'm immersing myself in databases and exploring AWS cloud technologies and Docker for containerization.
